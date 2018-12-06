@@ -6,8 +6,6 @@
   <node crypt="" id="1300000000aaaaaaaaa1" name="Rename me">
    <recordtable>
     <record id="1300000000aaaaaaaaa3" name="Welcome to MyTetra!" author="" url="" tags="MyTetra, Qt" ctime="20081210124656" dir="1300000000aaaaaaaaa2" file="text.html"/>
-    <record id="1544076082tp7g1wggtr" name="11111" author="" url="" tags="" ctime="20181206090122" dir="1544076082gnnf3lchlg" file="text.html"/>
-    <record id="1544076341mw29gpg9aq" name="22222" author="" url="" tags="" ctime="20181206090541" dir="1544076341qeof3jqme4" file="text.html"/>
    </recordtable>
   </node>
  </content>
